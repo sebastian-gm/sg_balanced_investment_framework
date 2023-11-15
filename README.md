@@ -17,7 +17,7 @@ To use this framework, clone the repository and run the Jupyter notebook. Ensure
 `pip install pandas numpy matplotlib seaborn scipy yfinance`
 
 ## Contact
-Sebastian Gonzalez - [Your Contact Information]
+Sebastian Gonzalez - sebastian.sgm@outlook.com
 
 ## Acknowledgments
 Harry Markowitz for the Modern Portfolio Theory
